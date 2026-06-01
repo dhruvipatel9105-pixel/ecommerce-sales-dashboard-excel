@@ -111,7 +111,7 @@ The interactive dashboard contains:
 
 Some key business insights identified from the analysis include:
 
-- Sports category generated the highest sales.
+- Home category generated the highest sales.
 - February 2025 recorded peak revenue.
 - Cash on Delivery was the most frequently used payment method.
 - Returned orders were significantly high.
